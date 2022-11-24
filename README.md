@@ -28,4 +28,16 @@ Build and run:
 cargo run --release
 ```
 
+Install:
+
+```bash
+make install
+```
+
+Uninstall:
+
+```bash
+make uninstall
+```
+
 ---
